@@ -1,9 +1,10 @@
 package gitHubTest;
 
 public class Hola {
-	//Mi código
+//Mi cÃ³digo
 	public static void main(String[] args) {
 		System.out.println("Hola mundo!!");
+		System.out.println("Adios.");
 	}
 	
 }
